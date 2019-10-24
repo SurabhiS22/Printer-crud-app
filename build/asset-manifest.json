@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/printer-crud-app/static/css/main.1ab163b6.chunk.css",
+    "main.js": "/printer-crud-app/static/js/main.06f73271.chunk.js",
+    "main.js.map": "/printer-crud-app/static/js/main.06f73271.chunk.js.map",
+    "runtime-main.js": "/printer-crud-app/static/js/runtime-main.ebb7c6c1.js",
+    "runtime-main.js.map": "/printer-crud-app/static/js/runtime-main.ebb7c6c1.js.map",
+    "static/js/2.b81b6f36.chunk.js": "/printer-crud-app/static/js/2.b81b6f36.chunk.js",
+    "static/js/2.b81b6f36.chunk.js.map": "/printer-crud-app/static/js/2.b81b6f36.chunk.js.map",
+    "index.html": "/printer-crud-app/index.html",
+    "precache-manifest.0f6a16b47361f9e7d72e7df126bcddda.js": "/printer-crud-app/precache-manifest.0f6a16b47361f9e7d72e7df126bcddda.js",
+    "service-worker.js": "/printer-crud-app/service-worker.js",
+    "static/css/main.1ab163b6.chunk.css.map": "/printer-crud-app/static/css/main.1ab163b6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb7c6c1.js",
+    "static/js/2.b81b6f36.chunk.js",
+    "static/css/main.1ab163b6.chunk.css",
+    "static/js/main.06f73271.chunk.js"
+  ]
+}
